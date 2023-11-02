@@ -1,0 +1,28 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  margin-right: 40px;
+ 
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.sd{
+  margin-bottom: 30px;
+}
+
+
+.my-div{
+  text-align: center;
+  background-color: #000;
+  margin: -25px 40px 40px -25px;
+}
+
